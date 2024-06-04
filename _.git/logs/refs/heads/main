@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 46368289ce129d00db9364703c0a811a1ed8c432 matveylookanov <matvew2006@gmail.com> 1712168648 +0400	commit (initial): First simple example
+46368289ce129d00db9364703c0a811a1ed8c432 7022959d15b5127116ae9935b093973f409e3742 matveylookanov <matvew2006@gmail.com> 1712235150 +0400	commit: The main app is ready,
+7022959d15b5127116ae9935b093973f409e3742 5e05da85c78b6af73db20fbfbc6557546d7638d6 matveylookanov <matvew2006@gmail.com> 1712240288 +0400	commit: добаввлено приложение гудс и поключены каталог и продукт
+5e05da85c78b6af73db20fbfbc6557546d7638d6 d00bc1386b065926e3713287e373db2ce36907fe matveylookanov <matvew2006@gmail.com> 1712341907 +0400	commit: After addinng
+d00bc1386b065926e3713287e373db2ce36907fe 2556e772d1208337479f9794854b22c569be1648 matveylookanov <matvew2006@gmail.com> 1712342823 +0400	commit: debug-toolbar
+2556e772d1208337479f9794854b22c569be1648 90bd1fd93e8cca4b40252fd8ece1074a436d0170 matveylookanov <matvew2006@gmail.com> 1712601197 +0400	commit: registered simple ntag for category
+90bd1fd93e8cca4b40252fd8ece1074a436d0170 69bec6a29e82422bf70f334ad8f7dd7bcdff75ac matveylookanov <matvew2006@gmail.com> 1712669695 +0400	commit: slug converted for product
+69bec6a29e82422bf70f334ad8f7dd7bcdff75ac 48f30e94a97fd4ba3aa8c4f41f939c3ec98a898a matveylookanov <matvew2006@gmail.com> 1712746743 +0400	commit: the fist pagination optition
+48f30e94a97fd4ba3aa8c4f41f939c3ec98a898a a77f9cde4e92c9c97b5aa6f1a05ebb56fa1ced40 matveylookanov <matvew2006@gmail.com> 1712751345 +0400	commit: вторая пагинация гет парметры
+a77f9cde4e92c9c97b5aa6f1a05ebb56fa1ced40 82c0ba9a27d542804ce934e81912ed3606b1edda matveylookanov <matvew2006@gmail.com> 1712761199 +0400	commit: продуктынй фильтр на сате падже и юрлкоде
+82c0ba9a27d542804ce934e81912ed3606b1edda a9f429233921179ac77335eee0caa4f604ef7ad7 matveylookanov <matvew2006@gmail.com> 1712849735 +0400	commit: симпл скретч креет
+a9f429233921179ac77335eee0caa4f604ef7ad7 e1411d7a4ed1bf9db50d8c3662bb5b501f7a5758 matveylookanov <matvew2006@gmail.com> 1712956016 +0400	commit: пострей скул дата бас присоединение и полный текстовый поиск
+e1411d7a4ed1bf9db50d8c3662bb5b501f7a5758 07a46720c1793b7791977318a8f7ec02d045d6a0 matveylookanov <matvew2006@gmail.com> 1712964612 +0400	commit: full text search вел доне
+07a46720c1793b7791977318a8f7ec02d045d6a0 f10779172b9466c7bf221e9811ef313efe4bc532 matveylookanov <matvew2006@gmail.com> 1713120896 +0400	commit: темплатс for users app added
+f10779172b9466c7bf221e9811ef313efe4bc532 1715bebb8f869b60da4ff3c4c50f604badc9b165 matveylookanov <matvew2006@gmail.com> 1713183867 +0400	commit: login form and controller are ready
+1715bebb8f869b60da4ff3c4c50f604badc9b165 6aff8ed49856e6d5a0e3fd17e336da94cc495044 matveylookanov <matvew2006@gmail.com> 1713366862 +0400	commit: форма регистрации и контроллер
+6aff8ed49856e6d5a0e3fd17e336da94cc495044 73dd9ba3b67ef25a43b05467b1ded73fe1012b5d matveylookanov <matvew2006@gmail.com> 1713377119 +0400	commit: profile form controller and notification are ready
+73dd9ba3b67ef25a43b05467b1ded73fe1012b5d f4c45254184a9f9e9368303ebd95a6ca19d41336 matveylookanov <matvew2006@gmail.com> 1713378397 +0400	commit: login required decorator redirect to target page
+f4c45254184a9f9e9368303ebd95a6ca19d41336 4522e0a25c5dcf5ec12aa8c354b30bc831446ce7 matvey <matvew2006@gmail.com> 1715631563 +0400	commit: add to cart view refactor included cart templas

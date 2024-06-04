@@ -1,0 +1,44 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   app/settings.py
+#	modified:   app/urls.py
+#	modified:   carts/admin.py
+#	modified:   carts/templates/carts/includes/included_carts.html
+#	modified:   carts/templatetags/carts_tags.py
+#	modified:   carts/urls.py
+#	new file:   carts/utils.py
+#	modified:   carts/views.py
+#	modified:   goods/admin.py
+#	modified:   goods/models.py
+#	modified:   goods/templates/goods/catalog.html
+#	modified:   goods/templates/goods/product.html
+#	modified:   main/templates/main/index.html
+#	new file:   orders/__init__.py
+#	new file:   orders/admin.py
+#	new file:   orders/apps.py
+#	new file:   orders/forms.py
+#	new file:   orders/migrations/0001_initial.py
+#	new file:   orders/migrations/__init__.py
+#	new file:   orders/models.py
+#	new file:   orders/templates/orders/create_order.html
+#	new file:   orders/tests.py
+#	new file:   orders/urls.py
+#	new file:   orders/views.py
+#	modified:   static/deps/js/jquery-ajax.js
+#	deleted:    static/deps/js/jquery-events.js
+#	modified:   templates/includes/cart_button.html
+#	modified:   users/admin.py
+#	new file:   users/migrations/0003_user_phone_number.py
+#	modified:   users/models.py
+#	modified:   users/templates/users/profile.html
+#	modified:   users/templates/users/users_cart.html
+#	modified:   users/views.py
+#
+# Changes not staged for commit:
+#	modified:   app/settings.py
+#	modified:   main/views.py
+#
